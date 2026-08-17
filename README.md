@@ -1,5 +1,5 @@
 # Placements
-# Hi, I'm Powrohitham Sanjay Datta 👋
+# Hi, I'm Powrohitham Sanjay Datta 
 
 ## About Me
 
@@ -9,13 +9,13 @@ This repository serves as a portfolio of my **academic, research, course, and se
 
 I enjoy combining communication theory with computational techniques to build simulations, develop algorithms, and investigate practical communication-system problems.
 
-## 🎓 Education
+## Education
 
 **M.Tech — Communication Engineering**
 **Indian Institute of Technology Bombay (IIT Bombay)**
 2025 – 2027
 
-## 💡 Areas of Interest
+## Areas of Interest
 
 * Wireless Communication
 * Digital Communication
@@ -27,7 +27,7 @@ I enjoy combining communication theory with computational techniques to build si
 * GNSS
 * Underwater Acoustic Communication
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Programming Languages:**
 Python • C++
@@ -38,7 +38,7 @@ MATLAB • GNU Radio
 **Machine Learning / Deep Learning:**
 PyTorch
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### Autoencoder-Based End-to-End Communication System
 
@@ -80,7 +80,7 @@ Developing a parabolic-equation-based simulation framework for studying underwat
 * Studied channel effects including multipath propagation and Doppler spread.
 * Currently extending the simulator using Padé approximation methods and additional channel/environment models.
 
-## 📚 Relevant Coursework
+## Relevant Coursework
 
 * Wireless and Mobile Communication
 * Principles of Digital Communication
@@ -93,13 +93,12 @@ Developing a parabolic-equation-based simulation framework for studying underwat
 
 My current academic work focuses on **communication-system modeling, signal processing, and machine learning techniques for communication applications**. I am particularly interested in exploring how ML can be integrated with traditional communication-system approaches to improve performance and efficiency.
 
-## 📫 Connect With Me
+## Connect With Me
 
 * **Email:** [Your Email]
 * **LinkedIn:** [Your LinkedIn]
 * **GitHub:** [Your GitHub Profile]
 
 ---
-
-⭐ Feel free to explore my repositories and projects.
+Feel free to explore my repositories and projects.
 I am always interested in learning, experimenting with new ideas, and working on challenging problems in **communication systems and machine learning**.
