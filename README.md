@@ -89,15 +89,14 @@ Developing a parabolic-equation-based simulation framework for studying underwat
 * Foundations of Machine Learning
 * Information Theory and Coding
 
-## 🔬 Research & Academic Work
+## Research & Academic Work
 
 My current academic work focuses on **communication-system modeling, signal processing, and machine learning techniques for communication applications**. I am particularly interested in exploring how ML can be integrated with traditional communication-system approaches to improve performance and efficiency.
 
 ## Connect With Me
 
-* **Email:** [Your Email]
-* **LinkedIn:** [Your LinkedIn]
-* **GitHub:** [Your GitHub Profile]
+* **Email:** dattasanjay311@gmail.com
+* **LinkedIn:** www.linkedin.com/in/powrohitham-sanjay-datta-08a40b225
 
 ---
 Feel free to explore my repositories and projects.
